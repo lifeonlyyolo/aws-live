@@ -1,7 +1,7 @@
-customhost = "ec2-54-167-77-118.compute-1.amazonaws.com"
+customhost = "employee.cozqrhoefjui.us-east-1.rds.amazonaws.com"
 customuser = "aws_user"
 custompass = "24PMD02200"
-customdb = "employee"
+customdb = "employee_db"
 custombucket = "yl-s3-bucket123"
 customregion = "us-east-1"
 
